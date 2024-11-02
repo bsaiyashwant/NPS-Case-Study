@@ -1,2 +1,2 @@
 # NPS-Case-Study
-Case Studies related to Smart India Hackathon
+Network Protocols and Security related Case Studies based on Smart India Hackathon 2024
